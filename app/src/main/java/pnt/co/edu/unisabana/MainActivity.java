@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         if(et1.getText().length()!=0) {
             txt1.setText(et1.getText());
         }else{
-            Toast.makeText(this,"Ingresa un texto",Toast.LENGTH_SHORT).show();
+            Toast.makeText(this,"Yeisson es re marica",Toast.LENGTH_SHORT).show();
         }
     }
 }
